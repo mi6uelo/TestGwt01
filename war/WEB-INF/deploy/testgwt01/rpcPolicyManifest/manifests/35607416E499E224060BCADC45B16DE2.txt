@@ -1,0 +1,2 @@
+serviceClass: ec.com.miva.client.GreetingService
+path: 0CDCA20A1F8B101A79B186160FDBC38F.gwt.rpc
